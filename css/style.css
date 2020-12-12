@@ -1,0 +1,56 @@
+.container img{
+    width: 50px;
+}
+.navbar{
+    background: rgb(0, 112, 218);
+    border-bottom: #ffffff;
+    border-bottom: 2px solid white;
+}
+#home-section{
+    background: url("../img/1.jpg")
+    no-repeat center top;
+    background-size: cover;
+    min-height: 700px;
+    background-attachment: fixed;
+}
+.dark-overlay{
+    background: rgba(0, 0, 0, 0.61);
+    min-height: 700px;
+}
+#home-section .fas{
+    background: white;
+    color: blue;
+    padding: 5px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+#exploere-main img{
+    min-width: 100%;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+#exploere-main .row{
+   align-items: center;
+}
+.firstimg{
+    background: white;
+    border-radius: 5px;
+    border: 1px solid black;
+    width: 100%;
+}
+#share-main img{
+    min-width: 100%;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+#share-main .row{
+   align-items: center;
+}
+#share-main{
+    background: url("../img/22.jpg")
+    no-repeat center top;
+    background-size: cover;
+    min-height: 700px;
+    background-attachment: fixed;
+
+}
